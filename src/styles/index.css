@@ -15,12 +15,16 @@
     background: #101010;
     color: white;
     margin: 4px;
-
+    margin-top: 20px;
 
 }
 
+
 .button{
-    margin-bottom: 45px;
+    margin-bottom: 40px;
     margin-left: 10px;
+    height: 60px;
+    width: 100px;
+
 }
 
